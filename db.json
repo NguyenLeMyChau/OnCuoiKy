@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "chau",
+      "password": "123",
+      "role": "admin",
+      "english": [
+        {
+          "titleEng": "hello"
+        },
+        {
+          "titleEng": "good"
+        }
+      ],
+      "vietnamese": [
+        {
+          "titleVie": "xin chào"
+        },
+        {
+          "titleVie": "tốt"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "username": "Lyly",
+      "password": "123456",
+      "role": "user",
+      "english": [
+        {
+          "title": "hello"
+        },
+        {
+          "title": "good"
+        }
+      ],
+      "vietnamese": [
+        {
+          "title": "xin chào"
+        },
+        {
+          "title": "tốt"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "username": "VanLa",
+      "password": "123456",
+      "role": "user"
+    },
+    {
+      "id": 4,
+      "username": "TranMy",
+      "password": "123456",
+      "role": "user"
+    }
+  ]
+}
